@@ -9,7 +9,8 @@
 
 ## demo 2:  头部姿态：  
 
-
+    注意看FPS，在相同配置的PC上部署后，在没有加速之前，卡顿到没法看，加速后基本流畅...  
+    
 
 
 ![image](https://github.com/fivexxxxx/openvino_warehouse/blob/master/gif/emotions2.gif)   
