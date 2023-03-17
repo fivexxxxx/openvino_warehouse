@@ -1,3 +1,23 @@
+
+## demo 1:  人脸识别：  
+
+
+
+![image](https://github.com/fivexxxxx/openvino_warehouse/blob/master/gif/openvino-face-detection.gif)  
+
+
+
+## demo 2:  头部姿态：  
+
+
+
+
+![image](https://github.com/fivexxxxx/openvino_warehouse/blob/master/gif/emotions2.gif)   
+
+
+持续不定期更新...  
+
+
 # openvino_warehouse #
 openVINO  基于视觉推断与神经网络优化，提供的深度学习推理套件，可以将各种开源框架训练好的模型进行线上部署，比如tensorflow，pytorch，paddlepaddle, onnx，mxnet，caffe2等。当模型训练结束后，上线部署时，就会遇到各种问题，比如，模型性能是否满足线上要求，模型如何嵌入到原有工程系统，推理线程的并发路数是否满足，这些问题决定着投入产出比。只有深入且准确的理解深度学习框架，才能更好的完成这些任务，满足上线要求。实际情况是，新的算法模型和所用框架在不停的变化，这个时候恨不得工程师什么框架都熟练掌握，令人失望的是，这种人才目前是稀缺的。
 
@@ -48,11 +68,3 @@ https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/downloa
     file->setting->project:face_detection(:项目名称)->project interpreter->找到你环境所在位置的python.exe  
       
 
-## demo 1:  人脸识别：  
-
-![image](https://github.com/fivexxxxx/openvino_warehouse/blob/master/gif/openvino-face-detection.gif
-)  
-
-## demo 2:  头部姿态：  
-
-![image](https://github.com/fivexxxxx/openvino_warehouse/blob/master/gif/emotions2.gif) 
